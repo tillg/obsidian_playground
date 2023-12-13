@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "91d41cc9b455eeae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ded26e08f371bf22",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bee19209fa44b1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "db57b8de60dbd93f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6a7633527b18d68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba6a582107248eaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7a64d599cdf2dd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "69124d7d8005818b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c3dbfb0d513014e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ded26e08f371bf22",
+  "lastOpenFiles": [
+    "Startseite - Koordinierungsstelle für IT-Standards 1.md",
+    "Startseite - Koordinierungsstelle für IT-Standards.md",
+    "Using obsidian URI - Obsidian Help.md",
+    "2022-04-03_22-07 Startseite - Koordinierungsstelle für IT-Standards?content.md",
+    "2022-04-03_22-06 Startseite - Koordinierungsstelle für IT-Standards?content.md",
+    "2022-04-03_22-04 Startseite - Koordinierungsstelle für IT-Standards?content.md",
+    "2022-04-03_22-04 Startseite - Koordinierungsstelle für IT-Standards?content.md",
+    "templates/note.md",
+    "2022-03-31_17-52 My_super_note.md",
+    "2022-03-31_17-50 Untitled.md"
+  ]
+}
